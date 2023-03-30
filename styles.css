@@ -1,7 +1,13 @@
 body {
     font-family: 'Open Sans', sans-serif;
     color: #4d4e53;
+    padding: 25px;
     line-height: 1.5;
+
+  }
+
+  p {
+    padding: 10px;
   }
 
   code {
