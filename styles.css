@@ -89,3 +89,10 @@ html, body {
     text-align: left;
     margin: 0;
   }
+
+  @media (prefers-color-scheme: dark) {
+    html, body {
+      color:#ffffff;
+      background-color: #000000;
+    }
+  }
