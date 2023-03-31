@@ -95,4 +95,16 @@ html, body {
       color:#ffffff;
       background-color: #000000;
     }
+    code {
+      color: #000000
+    }
+    header {
+      color: #ffffff;
+    }
+    #navbar a {
+      color:#ffffff
+    }
+    #navbar a:hover {
+      background-color: rgba(202, 211, 211, 0.2);
+    }
   }
